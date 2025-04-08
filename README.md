@@ -35,7 +35,7 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 
 1. In a shell, navigate to the project root directory(GEO_DEMO).
 
-2. 1. Install mongoose
+2. Install mongoose
 ```
 npm install mongoose
 ```
