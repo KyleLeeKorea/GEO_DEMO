@@ -1,9 +1,5 @@
-# Node.js Queryable Encryption Tutorial
+# MongoDB and Node.js Geo Spatial Demo
 
-- This project demonstrates an example implementation of Queryable Encryption for the MongoDB Node.js driver, including examples of Equality and Range queries.
-- This content has been modified and enhanced to enable Range Queries based on the following:
-[MongoDB University - Queryable Encryption Examples](https://github.com/mongodb-university/docs-in-use-encryption-examples/tree/main/queryable-encryption) 
-- To learn more about Queryable Encryption, see the [[Queryable Encryption section]](https://www.mongodb.com/docs/manual/core/queryable-encryption/) in the Server manual.
 
 ## Install Dependencies
 
@@ -37,30 +33,13 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 ```
 ## Run the App
 
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-```
-npm install mongoose
-```
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
-1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(GEO_DEMO).
 
-1. Install mongoose
+2. 1. Install mongoose
 ```
 npm install mongoose
 ```
-1. In a shell, navigate to the project root directory(QE_DEMO).
-
-1. Install mongoose
-```
-npm install mongoose
-```
-1. Run as below
+3. Run as below
 node geo_seoul.js duration batch_size
 
 Sample command
