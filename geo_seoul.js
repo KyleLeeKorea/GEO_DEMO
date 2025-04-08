@@ -12,7 +12,7 @@ if (isNaN(batchSize) || batchSize <= 0) {
   process.exit(1);
 }
 
-const uri = 'mongodb://localhost:27017/geo_benchmark';
+const uri = 'mongodb://localhost:27017/geo_seoul';
 
 const coordinateSchema = new mongoose.Schema({
   taxiId: String,
