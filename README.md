@@ -43,7 +43,6 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 ```
 npm install mongoose
 ```
-
 1. Run as below
 node geo_seoul.js duration batch_size
 
