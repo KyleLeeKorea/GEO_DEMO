@@ -38,6 +38,14 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 ## Run the App
 
 1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
+1. In a shell, navigate to the project root directory(QE_DEMO).
 
 1. Install mongoose
 ```
