@@ -43,6 +43,12 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 ```
 npm install mongoose
 ```
+1. In a shell, navigate to the project root directory(QE_DEMO).
+
+1. Install mongoose
+```
+npm install mongoose
+```
 1. Run as below
 node geo_seoul.js duration batch_size
 
