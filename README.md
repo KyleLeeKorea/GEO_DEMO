@@ -39,6 +39,9 @@ const uri = 'mongodb://localhost:27017/geo_benchmark';
 
 1. In a shell, navigate to the project root directory(QE_DEMO).
 1. In a shell, navigate to the project root directory(QE_DEMO).
+```
+npm install mongoose
+```
 1. In a shell, navigate to the project root directory(QE_DEMO).
 1. In a shell, navigate to the project root directory(QE_DEMO).
 1. In a shell, navigate to the project root directory(QE_DEMO).
