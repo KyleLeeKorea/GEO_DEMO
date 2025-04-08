@@ -7,7 +7,6 @@ To run this sample application, you first need to install the following
 dependencies:
 
 - MongoDB Server version 8.0 or later
-- Automatic Encryption Shared Library version 8.0 or later
 - Node.js
 - npm
 
