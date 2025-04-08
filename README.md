@@ -32,7 +32,7 @@ git clone https://github.com/KyleLeeKorea/GEO_DEMO
 - Please edit the contents of the credential.js according to each respective value.
 ```
   // Mongo URI
-  MONGODB_URI: "<your MongoDB URI here>",
+const uri = 'mongodb://localhost:27017/geo_benchmark';
   
 ```
 ## Run the App
@@ -40,7 +40,9 @@ git clone https://github.com/KyleLeeKorea/GEO_DEMO
 1. In a shell, navigate to the project root directory(QE_DEMO).
 
 1. Install mongoose
+```
 npm install mongoose
+```
 
 1. Run as below
 node geo_seoul.js duration batch_size
